@@ -9,7 +9,7 @@
   "dependencies": {
     "csv-parse": "^1.1.7",
     "memoizee": "^0.4.1",
-    "xlsx": "^0.8.0"
+    "xlsx": "git+https://github.com/uxland/js-xlsx.git"
   },
   "devDependencies": {
     "coveralls": "^2.11.2",
